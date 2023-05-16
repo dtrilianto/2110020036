@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/02 07:14:27.000.199,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/02 08:17:25.000.355,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 19:35:25.000.431,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/14 20:32:21.000.951,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/14 22:42:00.000.202,=C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/15 02:16:48.000.675,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Delphi\Tugas Visual\Unit1.dfm</Transaction>
+    <Transaction>2023/05/15 02:16:48.000.675,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi\Tugas Visual\Unit1.pas</Transaction>
+    <Transaction>2023/05/15 02:16:55.000.635,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\Delphi\Tugas Visual\Unit2.dfm</Transaction>
+    <Transaction>2023/05/15 02:16:55.000.635,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\Delphi\Tugas Visual\Unit2.pas</Transaction>
+    <Transaction>2023/05/15 02:17:03.000.625,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\Delphi\Tugas Visual\Unit3.dfm</Transaction>
+    <Transaction>2023/05/15 02:17:03.000.625,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Unit3.pas=D:\Delphi\Tugas Visual\Unit3.pas</Transaction>
+    <Transaction>2023/05/15 02:17:16.000.227,C:\Users\USER\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi\Tugas Visual\Project1.dproj</Transaction>
+    <Transaction>2023/05/15 20:42:00.000.315,=D:\Delphi\Tugas Visual\Unit4.pas</Transaction>
+    <Transaction>2023/05/15 21:05:47.000.572,=D:\Delphi\Tugas Visual\Unit5.pas</Transaction>
+    <Transaction>2023/05/15 21:48:32.000.472,=D:\Delphi\Tugas Visual\Unit6.pas</Transaction>
+    <Transaction>2023/05/15 22:58:48.000.377,=D:\Delphi\Tugas Visual\Unit7.pas</Transaction>
+    <Transaction>2023/05/16 06:32:46.000.995,=D:\Delphi\Tugas Visual\Unit8.pas</Transaction>
+  </Transactions>
+</BorlandProject>
